@@ -27,34 +27,6 @@ Passionate developer building awesome things.
   <img src="https://www.gitskins.com/api/languages?username=nikanmafakheri&theme=aurora" alt="Top Languages" />
 </p>
 
-## 🚀 Featured Projects
-
-### [Blog-django-react-postgres](https://github.com/nikanmafakheri/Blog-django-react-postgres) `Python`
-blog app using Django REST Framework for APIs, React for the frontend, and PostgreSQL for reliable data storage. Decoupled and production-friendly.
-⭐ 1 | 🍴 0
-
-### [RealTime-ChatApp-FastAPI-MongoDB](https://github.com/nikanmafakheri/RealTime-ChatApp-FastAPI-MongoDB) `Python`
-A simple and clean real-time chat application using FastAPI, MongoDB, and WebSockets to let multiple users send and receive messages live.
-⭐ 1 | 🍴 0
-
-### [RESTful-ToDoList-django-postgres](https://github.com/nikanmafakheri/RESTful-ToDoList-django-postgres) `Python`
-A scalable REST API for managing to-do tasks, built with Django REST Framework and PostgreSQL — now fully Dockerized 🐳.
-⭐ 1 | 🍴 0
-
-### [E-CommerceAPI](https://github.com/nikanmafakheri/E-CommerceAPI) `Python`
- A fully RESTful e-commerce backend built with Django, Django REST Framework, and PostgreSQL.  This project is designed to provide a clean and scalable structure for an online store  from user registration to order management entirely from the backend side.
-⭐ 1 | 🍴 0
-
-### [weather_api-FastAPI](https://github.com/nikanmafakheri/weather_api-FastAPI) `Python`
-A FastAPI-based Weather API that fetches weather data, stores it in PostgreSQL, and uses Redis caching for better performance. 
-⭐ 1 | 🍴 0
-
-### [dbn-resume-reviewer](https://github.com/nikanmafakheri/dbn-resume-reviewer) `Python`
-An AI-powered resume reviewer built for the Persian job market using FastAPI, React, and Gemini AI.
-⭐ 0 | 🍴 0
-
-
-
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nikanmafakheri&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=nikanmafakheri&theme=aurora&style=jet" alt="nikanmafakheri contribution activity, with a jet firing at their busiest days" /></picture>
 </p>
