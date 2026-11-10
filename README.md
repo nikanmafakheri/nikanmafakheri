@@ -5,7 +5,7 @@
 ### Software Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+Developer;Building+Useful+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Aspiring+Data+Engineer;Building+Useful+Software" alt="Typing SVG" />
 </a>
 
 <p>
